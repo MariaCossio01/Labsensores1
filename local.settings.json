@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DriverAzure": "ODBC Driver 17 for SQL Server",
+    "ServerBdAzure": "servidor-sensoresone-2020-1.database.windows.net",
+    "DataBaseAzure": "SQL_Proyecto",
+    "UserNameBdAzure": "sensores1_2020-1",
+    "PassWordBdAzure": "ingenieriaITM20",
+    "SQL_datos": "SELECT * FROM dbo.BASE_SQL_Final"
+  }
+}
